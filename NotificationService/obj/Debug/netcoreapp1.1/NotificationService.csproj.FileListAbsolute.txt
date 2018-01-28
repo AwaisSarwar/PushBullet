@@ -1,0 +1,8 @@
+C:\Users\Awais\Desktop\NotificationService\NotificationService\bin\Debug\netcoreapp1.1\NotificationService.deps.json
+C:\Users\Awais\Desktop\NotificationService\NotificationService\bin\Debug\netcoreapp1.1\NotificationService.runtimeconfig.json
+C:\Users\Awais\Desktop\NotificationService\NotificationService\bin\Debug\netcoreapp1.1\NotificationService.runtimeconfig.dev.json
+C:\Users\Awais\Desktop\NotificationService\NotificationService\bin\Debug\netcoreapp1.1\NotificationService.dll
+C:\Users\Awais\Desktop\NotificationService\NotificationService\bin\Debug\netcoreapp1.1\NotificationService.pdb
+C:\Users\Awais\Desktop\NotificationService\NotificationService\obj\Debug\netcoreapp1.1\NotificationService.AssemblyInfo.cs
+C:\Users\Awais\Desktop\NotificationService\NotificationService\obj\Debug\netcoreapp1.1\NotificationService.dll
+C:\Users\Awais\Desktop\NotificationService\NotificationService\obj\Debug\netcoreapp1.1\NotificationService.pdb

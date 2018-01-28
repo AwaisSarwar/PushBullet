@@ -1,0 +1,14 @@
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\UnitTests.deps.json
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\UnitTests.runtimeconfig.json
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\UnitTests.runtimeconfig.dev.json
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\UnitTests.dll
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\UnitTests.pdb
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\NotificationService.dll
+C:\Users\Awais\Desktop\NotificationService\UnitTests\bin\Debug\netcoreapp1.1\NotificationService.pdb
+C:\Users\Awais\Desktop\NotificationService\UnitTests\obj\Debug\netcoreapp1.1\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Awais\Desktop\NotificationService\UnitTests\obj\Debug\netcoreapp1.1\UnitTests.AssemblyInfo.cs
+C:\Users\Awais\Desktop\NotificationService\UnitTests\obj\Debug\netcoreapp1.1\UnitTests.dll
+C:\Users\Awais\Desktop\NotificationService\UnitTests\obj\Debug\netcoreapp1.1\UnitTests.pdb
